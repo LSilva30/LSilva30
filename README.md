@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Luiz Silva👋
 
+---
 
-**LSilva30/LSilva30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LSilva30&show_icons=true&theme=onedark&line_height=27" alt="AnkitDroidGit github stats" />	
 
