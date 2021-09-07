@@ -2,7 +2,7 @@
 
 <br/>
 
-My name is <strong>Luiz Silva</strong>, I am an aspiring Software Engineering currently studying at Boca Code. Follow my journey as I become a full-stack web developer creating new projects and learning more everyday!
+My name is <strong>Luiz Silva</strong>, Follow my journey as a Full-Stack Engineer, creating new projects and learning more everyday!
 
 --- 
 
