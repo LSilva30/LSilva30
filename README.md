@@ -2,7 +2,7 @@
 
 <br/>
 
-My name is <strong>Luiz Silva</strong>, Follow my journey as a Full-Stack Engineer, creating new projects and learning more everyday!
+My name is <strong>Luiz Silva</strong>, follow my journey as a Full-Stack Software Engineer, creating new projects and learning more everyday!
 
 --- 
 
